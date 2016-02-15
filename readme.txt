@@ -1,3 +1,3 @@
 git is a version control system.
 git is free software.
-git is a track.
+git is a track of files.
